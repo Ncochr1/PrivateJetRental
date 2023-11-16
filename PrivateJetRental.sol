@@ -1,3 +1,4 @@
+// Nicholas Cochran, Thomas Coyle, Jake Stiegler
 // designate license & Solidity version
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.0 <0.9.0;
